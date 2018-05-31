@@ -1,0 +1,333 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:74xgxx
+LIBS:ac-dc
+LIBS:actel
+LIBS:allegro
+LIBS:Altera
+LIBS:analog_devices
+LIBS:battery_management
+LIBS:bbd
+LIBS:bosch
+LIBS:brooktre
+LIBS:cmos_ieee
+LIBS:dc-dc
+LIBS:diode
+LIBS:elec-unifil
+LIBS:ESD_Protection
+LIBS:ftdi
+LIBS:gennum
+LIBS:graphic_symbols
+LIBS:hc11
+LIBS:infineon
+LIBS:intersil
+LIBS:ir
+LIBS:Lattice
+LIBS:leds
+LIBS:LEM
+LIBS:logic_programmable
+LIBS:maxim
+LIBS:mechanical
+LIBS:microchip_dspic33dsc
+LIBS:microchip_pic10mcu
+LIBS:microchip_pic12mcu
+LIBS:microchip_pic16mcu
+LIBS:microchip_pic18mcu
+LIBS:microchip_pic24mcu
+LIBS:microchip_pic32mcu
+LIBS:modules
+LIBS:motor_drivers
+LIBS:motors
+LIBS:msp430
+LIBS:nordicsemi
+LIBS:nxp_armmcu
+LIBS:nxp
+LIBS:onsemi
+LIBS:Oscillators
+LIBS:Power_Management
+LIBS:powerint
+LIBS:pspice
+LIBS:references
+LIBS:relays
+LIBS:rfcom
+LIBS:RFSolutions
+LIBS:sensors
+LIBS:silabs
+LIBS:stm8
+LIBS:stm32
+LIBS:supertex
+LIBS:switches
+LIBS:transf
+LIBS:triac_thyristor
+LIBS:ttl_ieee
+LIBS:video
+LIBS:wiznet
+LIBS:Worldsemi
+LIBS:Xicor
+LIBS:zetex
+LIBS:Zilog
+LIBS:gsg-symbols
+LIBS:ledbadge-cache
+EELAYER 25 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L APA102 D1
+U 1 1 5B0C179A
+P 17150 2000
+F 0 "D1" H 17150 2200 60  0000 C CNN
+F 1 "APA102" H 17150 1800 60  0000 C CNN
+F 2 "" H 17150 2000 60  0001 C CNN
+F 3 "" H 17150 2000 60  0001 C CNN
+	1    17150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L APA102 D2
+U 1 1 5B0C1802
+P 18050 2000
+F 0 "D2" H 18050 2200 60  0000 C CNN
+F 1 "APA102" H 18050 1800 60  0000 C CNN
+F 2 "" H 18050 2000 60  0001 C CNN
+F 3 "" H 18050 2000 60  0001 C CNN
+	1    18050 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74AHCT1G125 U?
+U 1 1 5B0E3785
+P 16000 1750
+F 0 "U?" H 15900 1900 50  0000 C CNN
+F 1 "74AHCT1G125" H 16000 1600 50  0000 C CNN
+F 2 "" H 16000 1750 50  0001 C CNN
+F 3 "" H 16000 1750 50  0001 C CNN
+	1    16000 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74AHCT1G125 U?
+U 1 1 5B0E37FF
+P 16000 2300
+F 0 "U?" H 15900 2450 50  0000 C CNN
+F 1 "74AHCT1G125" H 16000 2150 50  0000 C CNN
+F 2 "" H 16000 2300 50  0001 C CNN
+F 3 "" H 16000 2300 50  0001 C CNN
+	1    16000 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L STM32F417VGTx U?
+U 1 1 5B0E3A19
+P 7050 4450
+F 0 "U?" H 2750 7275 50  0000 L BNN
+F 1 "STM32F417VGTx" H 11350 7275 50  0000 R BNN
+F 2 "LQFP100" H 11350 7225 50  0001 R TNN
+F 3 "" H 7050 4450 50  0001 C CNN
+	1    7050 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R?
+U 1 1 5B0E3F05
+P 16450 1750
+F 0 "R?" H 16480 1770 50  0000 L CNN
+F 1 "R_Small" H 16480 1710 50  0000 L CNN
+F 2 "" H 16450 1750 50  0001 C CNN
+F 3 "" H 16450 1750 50  0001 C CNN
+	1    16450 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L R_Small R?
+U 1 1 5B0E3F46
+P 16450 2300
+F 0 "R?" H 16480 2320 50  0000 L CNN
+F 1 "R_Small" H 16480 2260 50  0000 L CNN
+F 2 "" H 16450 2300 50  0001 C CNN
+F 3 "" H 16450 2300 50  0001 C CNN
+	1    16450 2300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	17500 1900 17700 1900
+Wire Wire Line
+	17500 2000 17700 2000
+Wire Wire Line
+	16250 1750 16350 1750
+Wire Wire Line
+	16550 1750 16650 1750
+Wire Wire Line
+	16650 1750 16650 1900
+Wire Wire Line
+	16650 1900 16800 1900
+Wire Wire Line
+	16250 2300 16350 2300
+Wire Wire Line
+	16550 2300 16650 2300
+Wire Wire Line
+	16650 2300 16650 2000
+Wire Wire Line
+	16650 2000 16800 2000
+$Comp
+L APA102 D?
+U 1 1 5B0E405E
+P 18950 2000
+F 0 "D?" H 18950 2200 60  0000 C CNN
+F 1 "APA102" H 18950 1800 60  0000 C CNN
+F 2 "" H 18950 2000 60  0001 C CNN
+F 3 "" H 18950 2000 60  0001 C CNN
+	1    18950 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L APA102 D?
+U 1 1 5B0E40B5
+P 19850 2000
+F 0 "D?" H 19850 2200 60  0000 C CNN
+F 1 "APA102" H 19850 1800 60  0000 C CNN
+F 2 "" H 19850 2000 60  0001 C CNN
+F 3 "" H 19850 2000 60  0001 C CNN
+	1    19850 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L APA102 D?
+U 1 1 5B0E40E8
+P 20750 2000
+F 0 "D?" H 20750 2200 60  0000 C CNN
+F 1 "APA102" H 20750 1800 60  0000 C CNN
+F 2 "" H 20750 2000 60  0001 C CNN
+F 3 "" H 20750 2000 60  0001 C CNN
+	1    20750 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MPU-6000 U?
+U 1 1 5B0E4253
+P 16250 3700
+F 0 "U?" H 15800 4250 50  0000 C CNN
+F 1 "MPU-6000" H 16550 3150 50  0000 C CNN
+F 2 "" H 16250 2900 50  0001 C CNN
+F 3 "" H 16250 3550 50  0001 C CNN
+	1    16250 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11550 4150 14300 4150
+Wire Wire Line
+	14300 4150 14300 1750
+Wire Wire Line
+	14300 1750 15700 1750
+Wire Wire Line
+	11550 3950 14100 3950
+Wire Wire Line
+	14100 3950 14100 2300
+Wire Wire Line
+	14100 2300 15700 2300
+Wire Wire Line
+	11550 4250 15000 4250
+Wire Wire Line
+	15000 4250 15000 3600
+Wire Wire Line
+	15000 3600 15550 3600
+Wire Wire Line
+	14900 4350 11550 4350
+Wire Wire Line
+	14900 3200 14900 4350
+Wire Wire Line
+	14900 3400 15550 3400
+$Comp
+L R_Small R?
+U 1 1 5B0F8B32
+P 15300 3100
+F 0 "R?" H 15330 3120 50  0000 L CNN
+F 1 "R_Small" H 15330 3060 50  0000 L CNN
+F 2 "" H 15300 3100 50  0001 C CNN
+F 3 "" H 15300 3100 50  0001 C CNN
+	1    15300 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R?
+U 1 1 5B0F8B75
+P 14900 3100
+F 0 "R?" H 14930 3120 50  0000 L CNN
+F 1 "R_Small" H 14930 3060 50  0000 L CNN
+F 2 "" H 14900 3100 50  0001 C CNN
+F 3 "" H 14900 3100 50  0001 C CNN
+	1    14900 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 3200 15300 3600
+Connection ~ 15300 3600
+Connection ~ 14900 3400
+$Comp
+L GND #PWR?
+U 1 1 5B0F8CEC
+P 16250 4400
+F 0 "#PWR?" H 16250 4150 50  0001 C CNN
+F 1 "GND" H 16250 4250 50  0000 C CNN
+F 2 "" H 16250 4400 50  0001 C CNN
+F 3 "" H 16250 4400 50  0001 C CNN
+	1    16250 4400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11550 6650 17600 6650
+Wire Wire Line
+	17600 6650 17600 3400
+Wire Wire Line
+	17600 3400 16950 3400
+Wire Wire Line
+	18400 1900 18600 1900
+Wire Wire Line
+	18400 2000 18600 2000
+Wire Wire Line
+	19300 1900 19500 1900
+Wire Wire Line
+	19300 2000 19500 2000
+Wire Wire Line
+	20200 1900 20400 1900
+Wire Wire Line
+	20200 2000 20400 2000
+$EndSCHEMATC
