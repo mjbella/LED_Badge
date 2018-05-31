@@ -1,4 +1,4 @@
-update=Monday, May 28, 2018 'AMt' 07:50:39 AM
+update=Thursday, May 31, 2018 'PMt' 04:43:37 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -125,3 +125,14 @@ LibName93=Xicor
 LibName94=zetex
 LibName95=Zilog
 LibName96=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/gsg-kicad-lib/gsg-symbols
+LibName97=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/mtch105
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/Users/mike1000/Documents/ledbadge_printout/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
