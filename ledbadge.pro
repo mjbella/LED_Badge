@@ -1,4 +1,4 @@
-update=Thursday, May 31, 2018 'PMt' 04:43:37 PM
+update=Friday, June 01, 2018 'PMt' 06:56:50 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/Users/mike1000/Documents/ledbadge_printout/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -126,13 +136,4 @@ LibName94=zetex
 LibName95=Zilog
 LibName96=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/gsg-kicad-lib/gsg-symbols
 LibName97=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/mtch105
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=/Users/mike1000/Documents/ledbadge_printout/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName98=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/BATT_Protection
