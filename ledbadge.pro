@@ -1,4 +1,4 @@
-update=Saturday, June 02, 2018 'PMt' 04:25:10 PM
+update=Sunday, June 03, 2018 'PMt' 08:53:06 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/Users/mike1000/Documents/ledbadge_printout/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -127,13 +137,4 @@ LibName95=Zilog
 LibName96=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/gsg-kicad-lib/gsg-symbols
 LibName97=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/mtch105
 LibName98=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/BATT_Protection
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=/Users/mike1000/Documents/ledbadge_printout/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName99=/Users/mike1000/Documents/Kicad Projects/Part Libs and Junk/badgelife_shitty_connector
