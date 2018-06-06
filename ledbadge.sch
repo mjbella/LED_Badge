@@ -5368,7 +5368,7 @@ U 1 1 5B161E87
 P 13650 9100
 F 0 "J24" H 13650 9400 50  0000 C CNN
 F 1 "Conn_01x06" H 13650 8700 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x06_Pitch1.00mm" H 13650 9100 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_1x06_Pitch1.27mm" H 13650 9100 50  0001 C CNN
 F 3 "" H 13650 9100 50  0001 C CNN
 	1    13650 9100
 	1    0    0    -1  
