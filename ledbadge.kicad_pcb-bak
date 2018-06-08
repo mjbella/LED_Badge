@@ -2,8 +2,8 @@
 
   (general
     (links 1188)
-    (no_connects 1109)
-    (area 15.679881 8.914999 288.140001 203.945)
+    (no_connects 761)
+    (area 15.679881 8.914999 340.510002 203.945)
     (thickness 1.6)
     (drawings 0)
     (tracks 303)
@@ -3846,7 +3846,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1759E5)
-    (at 164.25 89.905)
+    (at 162 90)
     (path /5B0C179A)
     (fp_text reference D1 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -3875,7 +3875,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1759EF)
-    (at 168.49 89.8)
+    (at 166 90)
     (path /5B0C1802)
     (fp_text reference D2 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -3904,7 +3904,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1759F9)
-    (at 172.3 89.8)
+    (at 170 90)
     (path /5B0E405E)
     (fp_text reference D3 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -3933,7 +3933,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A03)
-    (at 176.11 89.8)
+    (at 174 90)
     (path /5B0E40B5)
     (fp_text reference D4 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -3962,7 +3962,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A0D)
-    (at 179.92 89.8)
+    (at 178 90)
     (path /5B0E40E8)
     (fp_text reference D5 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -3991,7 +3991,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A17)
-    (at 183.73 89.8)
+    (at 182 90)
     (path /5B10E435)
     (fp_text reference D6 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4020,7 +4020,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A21)
-    (at 187.54 89.8)
+    (at 186 90)
     (path /5B10E43C)
     (fp_text reference D7 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4049,7 +4049,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A2B)
-    (at 191.35 89.8)
+    (at 190 90)
     (path /5B10E447)
     (fp_text reference D8 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4078,7 +4078,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A35)
-    (at 258.85 144.765)
+    (at 194 90)
     (path /5B10E44E)
     (fp_text reference D9 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4107,7 +4107,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A3F)
-    (at 253.05 144.055)
+    (at 198 90)
     (path /5B10E455)
     (fp_text reference D10 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4136,7 +4136,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A49)
-    (at 244.515 152.89)
+    (at 202 90)
     (path /5B10EA68)
     (fp_text reference D11 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4165,7 +4165,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A53)
-    (at 241.615 155.59)
+    (at 206 90)
     (path /5B10EA6F)
     (fp_text reference D12 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4194,7 +4194,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A5D)
-    (at 261.75 133.33)
+    (at 210 90)
     (path /5B10EA7A)
     (fp_text reference D13 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4223,7 +4223,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A67)
-    (at 248.88 146.855)
+    (at 214 90)
     (path /5B10EA81)
     (fp_text reference D14 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4252,7 +4252,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A71)
-    (at 258.85 136.665)
+    (at 218 90)
     (path /5B10EA88)
     (fp_text reference D15 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4281,7 +4281,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A7B)
-    (at 246.615 150.19)
+    (at 222 90)
     (path /5B10EA9F)
     (fp_text reference D16 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4310,7 +4310,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A85)
-    (at 255.95 138.655)
+    (at 226 90)
     (path /5B10EAA6)
     (fp_text reference D17 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4339,7 +4339,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A8F)
-    (at 253.05 141.355)
+    (at 230 90)
     (path /5B10EAB1)
     (fp_text reference D18 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4368,7 +4368,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175A99)
-    (at 250.15 144.155)
+    (at 234 90)
     (path /5B10EAB8)
     (fp_text reference D19 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4397,7 +4397,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175AA3)
-    (at 258.85 133.33)
+    (at 238 90)
     (path /5B10EABF)
     (fp_text reference D20 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4426,7 +4426,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175AAD)
-    (at 241.615 152.89)
+    (at 242 90)
     (path /5B110B1B)
     (fp_text reference D21 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4455,7 +4455,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175AB7)
-    (at 238.715 155.59)
+    (at 246 90)
     (path /5B110B22)
     (fp_text reference D22 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4484,7 +4484,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175AC1)
-    (at 245.98 146.855)
+    (at 250 90)
     (path /5B110B2B)
     (fp_text reference D23 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4513,7 +4513,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175ACB)
-    (at 243.715 150.19)
+    (at 254 90)
     (path /5B110B32)
     (fp_text reference D24 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4542,7 +4542,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175AD5)
-    (at 255.95 135.955)
+    (at 258 90)
     (path /5B110B39)
     (fp_text reference D25 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4571,7 +4571,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175ADF)
-    (at 253.05 138.655)
+    (at 162 94)
     (path /5B110B50)
     (fp_text reference D26 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4600,7 +4600,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175AE9)
-    (at 250.15 141.455)
+    (at 166 94)
     (path /5B110B57)
     (fp_text reference D27 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4629,7 +4629,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175AF3)
-    (at 247.25 144.155)
+    (at 170 94)
     (path /5B110B62)
     (fp_text reference D28 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4658,7 +4658,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175AFD)
-    (at 261.915 156.2)
+    (at 174 94)
     (path /5B110B69)
     (fp_text reference D29 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4687,7 +4687,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B07)
-    (at 259.015 156.2)
+    (at 178 94)
     (path /5B110B70)
     (fp_text reference D30 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4716,7 +4716,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B11)
-    (at 261.915 153.5)
+    (at 182 94)
     (path /5B110B87)
     (fp_text reference D31 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4745,7 +4745,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B1B)
-    (at 259.015 153.5)
+    (at 186 94)
     (path /5B110B8E)
     (fp_text reference D32 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4774,7 +4774,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B25)
-    (at 261.915 150.8)
+    (at 190 94)
     (path /5B110B99)
     (fp_text reference D33 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4803,7 +4803,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B2F)
-    (at 259.015 150.8)
+    (at 194 94)
     (path /5B110BA0)
     (fp_text reference D34 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4832,7 +4832,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B39)
-    (at 256.115 155.49)
+    (at 198 94)
     (path /5B110BA7)
     (fp_text reference D35 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4861,7 +4861,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B43)
-    (at 261.115 148.1)
+    (at 202 94)
     (path /5B110BBE)
     (fp_text reference D36 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4890,7 +4890,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B4D)
-    (at 264.16 100.33)
+    (at 206 94)
     (path /5B110BC5)
     (fp_text reference D37 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4919,7 +4919,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B57)
-    (at 338.35 57.82)
+    (at 210 94)
     (path /5B110BD0)
     (fp_text reference D38 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4948,7 +4948,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B61)
-    (at 220.56 136.79)
+    (at 214 94)
     (path /5B110BD7)
     (fp_text reference D39 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -4977,7 +4977,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B6B)
-    (at 257.64 100.32)
+    (at 218 94)
     (path /5B110BDE)
     (fp_text reference D40 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5006,7 +5006,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B75)
-    (at 253.69 105.62)
+    (at 222 94)
     (path /5B110ED3)
     (fp_text reference D41 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5035,7 +5035,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B7F)
-    (at 242.15 116.52)
+    (at 226 94)
     (path /5B110EDA)
     (fp_text reference D42 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5064,7 +5064,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B89)
-    (at 224.205 135.26)
+    (at 230 94)
     (path /5B110EE3)
     (fp_text reference D43 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5093,7 +5093,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B93)
-    (at 257.64 103.02)
+    (at 234 94)
     (path /5B110EEA)
     (fp_text reference D44 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5122,7 +5122,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175B9D)
-    (at 221.15 140.205)
+    (at 238 94)
     (path /5B110EF1)
     (fp_text reference D45 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5151,7 +5151,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BA7)
-    (at 245.05 116.52)
+    (at 242 94)
     (path /5B110F08)
     (fp_text reference D46 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5180,7 +5180,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BB1)
-    (at 242.15 119.22)
+    (at 246 94)
     (path /5B110F0F)
     (fp_text reference D47 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5209,7 +5209,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BBB)
-    (at 224.05 138.655)
+    (at 250 94)
     (path /5B110F1A)
     (fp_text reference D48 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5238,7 +5238,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BC5)
-    (at 245.25 124.62)
+    (at 254 94)
     (path /5B110F21)
     (fp_text reference D49 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5267,7 +5267,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BCF)
-    (at 258.86 109.03)
+    (at 258 94)
     (path /5B110F28)
     (fp_text reference D50 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5296,7 +5296,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BD9)
-    (at 238.815 129.97)
+    (at 162 98)
     (path /5B110F3F)
     (fp_text reference D51 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5325,7 +5325,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BE3)
-    (at 229.85 138.755)
+    (at 166 98)
     (path /5B110F46)
     (fp_text reference D52 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5354,7 +5354,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BED)
-    (at 232.75 136.055)
+    (at 170 98)
     (path /5B110F51)
     (fp_text reference D53 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5383,7 +5383,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175BF7)
-    (at 242.35 124.62)
+    (at 174 98)
     (path /5B110F58)
     (fp_text reference D54 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5412,7 +5412,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C01)
-    (at 255.96 113.72)
+    (at 178 98)
     (path /5B110F5F)
     (fp_text reference D55 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5441,7 +5441,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C0B)
-    (at 226.95 141.355)
+    (at 182 98)
     (path /5B110F76)
     (fp_text reference D56 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5470,7 +5470,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C15)
-    (at 261.36 106.33)
+    (at 186 98)
     (path /5B110F7D)
     (fp_text reference D57 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5499,7 +5499,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C1F)
-    (at 258.46 106.33)
+    (at 190 98)
     (path /5B110F88)
     (fp_text reference D58 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5528,7 +5528,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C29)
-    (at 224.05 144.055)
+    (at 194 98)
     (path /5B110F8F)
     (fp_text reference D59 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5557,7 +5557,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C33)
-    (at 245.05 121.92)
+    (at 198 98)
     (path /5B110F96)
     (fp_text reference D60 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5586,7 +5586,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C3D)
-    (at 247.95 119.22)
+    (at 202 98)
     (path /5B1112B3)
     (fp_text reference D61 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5615,7 +5615,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C47)
-    (at 250.85 116.42)
+    (at 206 98)
     (path /5B1112BA)
     (fp_text reference D62 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5644,7 +5644,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C51)
-    (at 232.75 138.755)
+    (at 210 98)
     (path /5B1112C3)
     (fp_text reference D63 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5673,7 +5673,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C5B)
-    (at 258.86 111.73)
+    (at 214 98)
     (path /5B1112CA)
     (fp_text reference D64 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5702,7 +5702,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C65)
-    (at 261.76 109.03)
+    (at 218 98)
     (path /5B1112D1)
     (fp_text reference D65 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5731,7 +5731,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C6F)
-    (at 242.35 130.02)
+    (at 222 98)
     (path /5B1112E8)
     (fp_text reference D66 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5760,7 +5760,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C79)
-    (at 223.415 150.09)
+    (at 226 98)
     (path /5B1112EF)
     (fp_text reference D67 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5789,7 +5789,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C83)
-    (at 251.05 124.52)
+    (at 230 98)
     (path /5B1112FA)
     (fp_text reference D68 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5818,7 +5818,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C8D)
-    (at 248.15 127.32)
+    (at 234 98)
     (path /5B111301)
     (fp_text reference D69 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5847,7 +5847,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175C97)
-    (at 245.25 130.02)
+    (at 238 98)
     (path /5B111308)
     (fp_text reference D70 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5876,7 +5876,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CA1)
-    (at 241.45 132.72)
+    (at 242 98)
     (path /5B11131F)
     (fp_text reference D71 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5905,7 +5905,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CAB)
-    (at 235.65 138.755)
+    (at 246 98)
     (path /5B111326)
     (fp_text reference D72 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5934,7 +5934,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CB5)
-    (at 238.55 136.005)
+    (at 250 98)
     (path /5B111331)
     (fp_text reference D73 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5963,7 +5963,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CBF)
-    (at 226.315 150.09)
+    (at 254 98)
     (path /5B111338)
     (fp_text reference D74 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -5992,7 +5992,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CC9)
-    (at 232.75 141.455)
+    (at 258 98)
     (path /5B11133F)
     (fp_text reference D75 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6021,7 +6021,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CD3)
-    (at 221.315 154.29)
+    (at 162 102)
     (path /5B111356)
     (fp_text reference D76 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6050,7 +6050,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CDD)
-    (at 260.54 103.63)
+    (at 166 102)
     (path /5B11135D)
     (fp_text reference D77 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6079,7 +6079,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CE7)
-    (at 255.56 108.32)
+    (at 170 102)
     (path /5B111368)
     (fp_text reference D78 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6108,7 +6108,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CF1)
-    (at 226.95 138.655)
+    (at 174 102)
     (path /5B11136F)
     (fp_text reference D79 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6137,7 +6137,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175CFB)
-    (at 224.05 141.355)
+    (at 178 102)
     (path /5B111376)
     (fp_text reference D80 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6166,7 +6166,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D05)
-    (at 227.105 135.26)
+    (at 182 102)
     (path /5B1116A7)
     (fp_text reference D81 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6195,7 +6195,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D0F)
-    (at 221.15 142.905)
+    (at 186 102)
     (path /5B1116AE)
     (fp_text reference D82 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6224,7 +6224,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D19)
-    (at 247.95 116.52)
+    (at 190 102)
     (path /5B1116B7)
     (fp_text reference D83 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6253,7 +6253,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D23)
-    (at 242.15 121.92)
+    (at 194 102)
     (path /5B1116BE)
     (fp_text reference D84 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6282,7 +6282,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D2D)
-    (at 245.05 119.22)
+    (at 198 102)
     (path /5B1116C5)
     (fp_text reference D85 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6311,7 +6311,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D37)
-    (at 211.98 154.19)
+    (at 202 102)
     (path /5B1116DC)
     (fp_text reference D86 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6340,7 +6340,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D41)
-    (at 209.08 154.19)
+    (at 206 102)
     (path /5B1116E3)
     (fp_text reference D87 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6369,7 +6369,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D4B)
-    (at 260.54 100.93)
+    (at 210 102)
     (path /5B1116EE)
     (fp_text reference D88 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6398,7 +6398,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D55)
-    (at 252.66 108.32)
+    (at 214 102)
     (path /5B1116F5)
     (fp_text reference D89 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6427,7 +6427,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D5F)
-    (at 229.215 150.19)
+    (at 218 102)
     (path /5B1116FC)
     (fp_text reference D90 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6456,7 +6456,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D69)
-    (at 231.48 146.855)
+    (at 222 102)
     (path /5B111713)
     (fp_text reference D91 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6485,7 +6485,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D73)
-    (at 224.215 155.49)
+    (at 226 102)
     (path /5B11171A)
     (fp_text reference D92 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6514,7 +6514,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D7D)
-    (at 238.55 138.705)
+    (at 230 102)
     (path /5B111725)
     (fp_text reference D93 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6543,7 +6543,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D87)
-    (at 241.45 136.055)
+    (at 234 102)
     (path /5B11172C)
     (fp_text reference D94 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6572,7 +6572,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D91)
-    (at 244.35 132.72)
+    (at 238 102)
     (path /5B111733)
     (fp_text reference D95 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6601,7 +6601,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175D9B)
-    (at 259.55 117.13)
+    (at 242 102)
     (path /5B11174A)
     (fp_text reference D96 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6630,7 +6630,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DA5)
-    (at 235.65 141.455)
+    (at 246 102)
     (path /5B111751)
     (fp_text reference D97 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6659,7 +6659,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DAF)
-    (at 224.215 152.79)
+    (at 250 102)
     (path /5B11175C)
     (fp_text reference D98 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6688,7 +6688,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DB9)
-    (at 232.75 144.155)
+    (at 254 102)
     (path /5B111763)
     (fp_text reference D99 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6717,7 +6717,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DC3)
-    (at 228.58 146.855)
+    (at 258 102)
     (path /5B11176A)
     (fp_text reference D100 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6746,7 +6746,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DCD)
-    (at 259.55 114.43)
+    (at 162 106)
     (path /5B1131CF)
     (fp_text reference D101 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6775,7 +6775,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DD7)
-    (at 256.65 119.12)
+    (at 166 106)
     (path /5B1131D6)
     (fp_text reference D102 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6804,7 +6804,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DE1)
-    (at 253.75 121.82)
+    (at 170 106)
     (path /5B1131DF)
     (fp_text reference D103 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6833,7 +6833,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DEB)
-    (at 238.815 127.27)
+    (at 174 106)
     (path /5B1131E6)
     (fp_text reference D104 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6862,7 +6862,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DF5)
-    (at 253.06 113.72)
+    (at 178 106)
     (path /5B1131ED)
     (fp_text reference D105 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6891,7 +6891,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175DFF)
-    (at 255.96 111.02)
+    (at 182 106)
     (path /5B113204)
     (fp_text reference D106 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6920,7 +6920,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E09)
-    (at 253.06 111.02)
+    (at 186 106)
     (path /5B11320B)
     (fp_text reference D107 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6949,7 +6949,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E13)
-    (at 235.915 127.27)
+    (at 190 106)
     (path /5B113216)
     (fp_text reference D108 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -6978,7 +6978,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E1D)
-    (at 217.615 148.89)
+    (at 194 106)
     (path /5B11321D)
     (fp_text reference D109 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7007,7 +7007,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E27)
-    (at 244.515 155.59)
+    (at 198 106)
     (path /5B113224)
     (fp_text reference D110 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7036,7 +7036,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E31)
-    (at 251.78 146.855)
+    (at 202 106)
     (path /5B11323B)
     (fp_text reference D111 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7065,7 +7065,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E3B)
-    (at 261.75 136.665)
+    (at 206 106)
     (path /5B113242)
     (fp_text reference D112 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7094,7 +7094,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E45)
-    (at 249.515 150.19)
+    (at 210 106)
     (path /5B11324D)
     (fp_text reference D113 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7123,7 +7123,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E4F)
-    (at 258.85 139.365)
+    (at 214 106)
     (path /5B113254)
     (fp_text reference D114 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7152,7 +7152,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E59)
-    (at 255.95 141.355)
+    (at 218 106)
     (path /5B11325B)
     (fp_text reference D115 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7181,7 +7181,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E63)
-    (at 229.85 136.055)
+    (at 222 106)
     (path /5B113272)
     (fp_text reference D116 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7210,7 +7210,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E6D)
-    (at 233.815 132.72)
+    (at 226 106)
     (path /5B113279)
     (fp_text reference D117 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7239,7 +7239,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E77)
-    (at 217.615 151.59)
+    (at 230 106)
     (path /5B113284)
     (fp_text reference D118 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7268,7 +7268,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E81)
-    (at 220.515 148.89)
+    (at 234 106)
     (path /5B11328B)
     (fp_text reference D119 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7297,7 +7297,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E8B)
-    (at 235.915 129.97)
+    (at 238 106)
     (path /5B113292)
     (fp_text reference D120 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7326,7 +7326,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E95)
-    (at 261.76 111.73)
+    (at 242 106)
     (path /5B1132AB)
     (fp_text reference D121 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7355,7 +7355,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175E9F)
-    (at 229.85 144.155)
+    (at 246 106)
     (path /5B1132B2)
     (fp_text reference D122 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7384,7 +7384,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175EA9)
-    (at 256.65 116.42)
+    (at 250 106)
     (path /5B1132BB)
     (fp_text reference D123 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7413,7 +7413,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175EB3)
-    (at 253.75 119.12)
+    (at 254 106)
     (path /5B1132C2)
     (fp_text reference D124 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7442,7 +7442,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175EBD)
-    (at 250.85 121.82)
+    (at 258 106)
     (path /5B1132C9)
     (fp_text reference D125 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7471,7 +7471,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175EC7)
-    (at 248.15 124.62)
+    (at 162 110)
     (path /5B1132E0)
     (fp_text reference D126 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7500,7 +7500,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175ED1)
-    (at 245.25 127.32)
+    (at 166 110)
     (path /5B1132E7)
     (fp_text reference D127 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7529,7 +7529,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175EDB)
-    (at 235.65 136.055)
+    (at 170 110)
     (path /5B1132F2)
     (fp_text reference D128 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7558,7 +7558,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175EE5)
-    (at 229.85 141.455)
+    (at 174 110)
     (path /5B1132F9)
     (fp_text reference D129 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7587,7 +7587,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175EEF)
-    (at 225.68 146.755)
+    (at 178 110)
     (path /5B113300)
     (fp_text reference D130 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7616,7 +7616,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175EF9)
-    (at 218.415 154.29)
+    (at 182 110)
     (path /5B113317)
     (fp_text reference D131 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7645,7 +7645,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F03)
-    (at 226.95 144.055)
+    (at 186 110)
     (path /5B11331E)
     (fp_text reference D132 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7674,7 +7674,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F0D)
-    (at 214.88 154.29)
+    (at 190 110)
     (path /5B113329)
     (fp_text reference D133 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7703,7 +7703,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F17)
-    (at 236.715 132.67)
+    (at 194 110)
     (path /5B113330)
     (fp_text reference D134 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7732,7 +7732,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F21)
-    (at 253.75 116.42)
+    (at 198 110)
     (path /5B113337)
     (fp_text reference D135 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7761,7 +7761,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F2B)
-    (at 250.85 119.12)
+    (at 202 110)
     (path /5B11334E)
     (fp_text reference D136 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7790,7 +7790,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F35)
-    (at 222.78 146.755)
+    (at 206 110)
     (path /5B113355)
     (fp_text reference D137 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7819,7 +7819,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F3F)
-    (at 220.515 151.59)
+    (at 210 110)
     (path /5B113360)
     (fp_text reference D138 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7848,7 +7848,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F49)
-    (at 247.95 121.92)
+    (at 214 110)
     (path /5B113367)
     (fp_text reference D139 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7877,7 +7877,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F53)
-    (at 242.35 127.32)
+    (at 218 110)
     (path /5B11336E)
     (fp_text reference D140 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7906,7 +7906,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F5D)
-    (at 251.05 127.22)
+    (at 222 110)
     (path /5B113387)
     (fp_text reference D141 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7935,7 +7935,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F67)
-    (at 248.15 130.02)
+    (at 226 110)
     (path /5B11338E)
     (fp_text reference D142 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7964,7 +7964,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F71)
-    (at 241.45 138.755)
+    (at 230 110)
     (path /5B113397)
     (fp_text reference D143 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -7993,7 +7993,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F7B)
-    (at 259.55 119.83)
+    (at 234 110)
     (path /5B11339E)
     (fp_text reference D144 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8022,7 +8022,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F85)
-    (at 238.55 141.405)
+    (at 238 110)
     (path /5B1133A5)
     (fp_text reference D145 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8051,7 +8051,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F8F)
-    (at 235.65 144.155)
+    (at 242 110)
     (path /5B1133BC)
     (fp_text reference D146 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8080,7 +8080,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175F99)
-    (at 256.65 121.82)
+    (at 246 110)
     (path /5B1133C3)
     (fp_text reference D147 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8109,7 +8109,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FA3)
-    (at 253.95 124.52)
+    (at 250 110)
     (path /5B1133CE)
     (fp_text reference D148 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8138,7 +8138,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FAD)
-    (at 259.75 130.63)
+    (at 254 110)
     (path /5B1133D5)
     (fp_text reference D149 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8167,7 +8167,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FB7)
-    (at 238.715 152.89)
+    (at 258 110)
     (path /5B1133DC)
     (fp_text reference D150 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8196,7 +8196,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FC1)
-    (at 235.815 155.59)
+    (at 162 114)
     (path /5B1133F3)
     (fp_text reference D151 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8225,7 +8225,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FCB)
-    (at 243.08 146.855)
+    (at 166 114)
     (path /5B1133FA)
     (fp_text reference D152 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8254,7 +8254,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FD5)
-    (at 240.815 150.19)
+    (at 170 114)
     (path /5B113405)
     (fp_text reference D153 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8283,7 +8283,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FDF)
-    (at 255.95 132.62)
+    (at 174 114)
     (path /5B11340C)
     (fp_text reference D154 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8312,7 +8312,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FE9)
-    (at 253.05 135.955)
+    (at 178 114)
     (path /5B113413)
     (fp_text reference D155 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8341,7 +8341,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FF3)
-    (at 250.15 138.755)
+    (at 182 114)
     (path /5B11342A)
     (fp_text reference D156 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8370,7 +8370,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B175FFD)
-    (at 247.25 141.455)
+    (at 186 114)
     (path /5B113431)
     (fp_text reference D157 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8399,7 +8399,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176007)
-    (at 259.75 127.93)
+    (at 190 114)
     (path /5B11343C)
     (fp_text reference D158 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8428,7 +8428,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176011)
-    (at 244.35 144.155)
+    (at 194 114)
     (path /5B113443)
     (fp_text reference D159 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8457,7 +8457,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17601B)
-    (at 235.815 152.89)
+    (at 198 114)
     (path /5B11344A)
     (fp_text reference D160 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8486,7 +8486,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176025)
-    (at 256.85 129.92)
+    (at 202 114)
     (path /5B113463)
     (fp_text reference D161 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8515,7 +8515,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17602F)
-    (at 232.915 155.59)
+    (at 206 114)
     (path /5B11346A)
     (fp_text reference D162 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8544,7 +8544,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176039)
-    (at 240.18 146.855)
+    (at 210 114)
     (path /5B113473)
     (fp_text reference D163 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8573,7 +8573,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176043)
-    (at 237.915 150.19)
+    (at 214 114)
     (path /5B11347A)
     (fp_text reference D164 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8602,7 +8602,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17604D)
-    (at 253.05 132.62)
+    (at 218 114)
     (path /5B113481)
     (fp_text reference D165 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8631,7 +8631,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176057)
-    (at 250.15 136.055)
+    (at 222 114)
     (path /5B113498)
     (fp_text reference D166 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8660,7 +8660,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176061)
-    (at 247.25 138.755)
+    (at 226 114)
     (path /5B11349F)
     (fp_text reference D167 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8689,7 +8689,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17606B)
-    (at 259.75 125.23)
+    (at 230 114)
     (path /5B1134AA)
     (fp_text reference D168 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8718,7 +8718,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176075)
-    (at 250.315 152.89)
+    (at 234 114)
     (path /5B1134B1)
     (fp_text reference D169 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8747,7 +8747,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17607F)
-    (at 247.415 155.59)
+    (at 238 114)
     (path /5B1134B8)
     (fp_text reference D170 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8776,7 +8776,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176089)
-    (at 254.68 146.755)
+    (at 242 114)
     (path /5B1134CF)
     (fp_text reference D171 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8805,7 +8805,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176093)
-    (at 252.415 150.19)
+    (at 246 114)
     (path /5B1134D6)
     (fp_text reference D172 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8834,7 +8834,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17609D)
-    (at 261.75 139.365)
+    (at 250 114)
     (path /5B1134E1)
     (fp_text reference D173 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8863,7 +8863,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760A7)
-    (at 258.85 142.065)
+    (at 254 114)
     (path /5B1134E8)
     (fp_text reference D174 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8892,7 +8892,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760B1)
-    (at 255.95 144.055)
+    (at 258 114)
     (path /5B1134EF)
     (fp_text reference D175 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8921,7 +8921,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760BB)
-    (at 247.415 152.89)
+    (at 162 118)
     (path /5B113506)
     (fp_text reference D176 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8950,7 +8950,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760C5)
-    (at 253.95 129.92)
+    (at 166 118)
     (path /5B11350D)
     (fp_text reference D177 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -8979,7 +8979,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760CF)
-    (at 230.015 155.59)
+    (at 170 118)
     (path /5B113518)
     (fp_text reference D178 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9008,7 +9008,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760D9)
-    (at 237.28 146.855)
+    (at 174 118)
     (path /5B11351F)
     (fp_text reference D179 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9037,7 +9037,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760E3)
-    (at 235.015 150.19)
+    (at 178 118)
     (path /5B113526)
     (fp_text reference D180 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9066,7 +9066,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760ED)
-    (at 250.15 132.72)
+    (at 182 118)
     (path /5B11353F)
     (fp_text reference D181 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9095,7 +9095,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1760F7)
-    (at 247.25 136.055)
+    (at 186 118)
     (path /5B113546)
     (fp_text reference D182 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9124,7 +9124,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176101)
-    (at 244.35 138.755)
+    (at 190 118)
     (path /5B11354F)
     (fp_text reference D183 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9153,7 +9153,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17610B)
-    (at 241.45 141.455)
+    (at 194 118)
     (path /5B113556)
     (fp_text reference D184 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9182,7 +9182,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176115)
-    (at 238.55 144.105)
+    (at 198 118)
     (path /5B11355D)
     (fp_text reference D185 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9211,7 +9211,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17611F)
-    (at 256.85 124.52)
+    (at 202 118)
     (path /5B113574)
     (fp_text reference D186 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9240,7 +9240,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176129)
-    (at 253.95 127.22)
+    (at 206 118)
     (path /5B11357B)
     (fp_text reference D187 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9269,7 +9269,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176133)
-    (at 230.015 152.89)
+    (at 210 118)
     (path /5B113586)
     (fp_text reference D188 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9298,7 +9298,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17613D)
-    (at 251.05 129.92)
+    (at 214 118)
     (path /5B11358D)
     (fp_text reference D189 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9327,7 +9327,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176147)
-    (at 227.115 155.59)
+    (at 218 118)
     (path /5B113594)
     (fp_text reference D190 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9356,7 +9356,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176151)
-    (at 234.38 146.855)
+    (at 222 118)
     (path /5B1135AB)
     (fp_text reference D191 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9385,7 +9385,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17615B)
-    (at 227.115 152.89)
+    (at 226 118)
     (path /5B1135B2)
     (fp_text reference D192 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9414,7 +9414,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176165)
-    (at 232.115 150.19)
+    (at 230 118)
     (path /5B1135BD)
     (fp_text reference D193 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9443,7 +9443,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17616F)
-    (at 247.25 132.72)
+    (at 234 118)
     (path /5B1135C4)
     (fp_text reference D194 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9472,7 +9472,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176179)
-    (at 244.35 136.055)
+    (at 238 118)
     (path /5B1135CB)
     (fp_text reference D195 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9501,7 +9501,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176183)
-    (at 244.35 141.455)
+    (at 242 118)
     (path /5B1135E2)
     (fp_text reference D196 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9530,7 +9530,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B17618D)
-    (at 241.45 144.155)
+    (at 246 118)
     (path /5B1135E9)
     (fp_text reference D197 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9559,7 +9559,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B176197)
-    (at 259.75 122.53)
+    (at 250 118)
     (path /5B1135F4)
     (fp_text reference D198 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9588,7 +9588,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1761A1)
-    (at 256.85 127.22)
+    (at 254 118)
     (path /5B1135FB)
     (fp_text reference D199 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -9617,7 +9617,7 @@
   )
 
   (module gsg-modules:APA102-2020 (layer F.Cu) (tedit 5A277708) (tstamp 5B1761AB)
-    (at 232.915 152.89)
+    (at 258 118)
     (path /5B113602)
     (fp_text reference D200 (at 0 0.4) (layer F.SilkS)
       (effects (font (size 0.50038 0.29972) (thickness 0.07493)))
@@ -11217,18 +11217,18 @@
   )
 
   (module Resistors_SMD:R_0805 (layer F.Cu) (tedit 58E0A804) (tstamp 5B176302)
-    (at 108.905 44.45 180)
+    (at 197.526814 54.951442)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
     (path /5B179980)
     (attr smd)
-    (fp_text reference R22 (at 0.32 -1.905 180) (layer F.SilkS)
+    (fp_text reference R22 (at 0.32 -1.905) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value R (at 0 1.75 180) (layer F.Fab)
+    (fp_text value R (at 0 1.75) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 180) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab)
       (effects (font (size 0.5 0.5) (thickness 0.075)))
     )
     (fp_line (start -1 0.62) (end -1 -0.62) (layer F.Fab) (width 0.1))
@@ -11241,9 +11241,9 @@
     (fp_line (start -1.55 -0.9) (end -1.55 0.9) (layer F.CrtYd) (width 0.05))
     (fp_line (start 1.55 0.9) (end 1.55 -0.9) (layer F.CrtYd) (width 0.05))
     (fp_line (start 1.55 0.9) (end -1.55 0.9) (layer F.CrtYd) (width 0.05))
-    (pad 1 smd rect (at -0.95 0 180) (size 0.7 1.3) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -0.95 0) (size 0.7 1.3) (layers F.Cu F.Paste F.Mask)
       (net 462 /DAC_OUT1))
-    (pad 2 smd rect (at 0.95 0 180) (size 0.7 1.3) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 0.95 0) (size 0.7 1.3) (layers F.Cu F.Paste F.Mask)
       (net 463 "Net-(R22-Pad2)"))
     (model ${KISYS3DMOD}/Resistors_SMD.3dshapes/R_0805.wrl
       (at (xyz 0 0 0))
@@ -14061,18 +14061,18 @@
   )
 
   (module Resistors_SMD:R_0805 (layer F.Cu) (tedit 58E0A804) (tstamp 5B1764DC)
-    (at 113.35 44.45)
+    (at 193.081814 54.951442 180)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
     (path /5B15774B)
     (attr smd)
-    (fp_text reference R101 (at 0 -1.65) (layer F.SilkS)
+    (fp_text reference R101 (at 0 -1.65 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value R (at 0 1.75) (layer F.Fab)
+    (fp_text value R (at 0 1.75 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0 180) (layer F.Fab)
       (effects (font (size 0.5 0.5) (thickness 0.075)))
     )
     (fp_line (start -1 0.62) (end -1 -0.62) (layer F.Fab) (width 0.1))
@@ -14085,9 +14085,9 @@
     (fp_line (start -1.55 -0.9) (end -1.55 0.9) (layer F.CrtYd) (width 0.05))
     (fp_line (start 1.55 0.9) (end 1.55 -0.9) (layer F.CrtYd) (width 0.05))
     (fp_line (start 1.55 0.9) (end -1.55 0.9) (layer F.CrtYd) (width 0.05))
-    (pad 1 smd rect (at -0.95 0) (size 0.7 1.3) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -0.95 0 180) (size 0.7 1.3) (layers F.Cu F.Paste F.Mask)
       (net 462 /DAC_OUT1))
-    (pad 2 smd rect (at 0.95 0) (size 0.7 1.3) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 0.95 0 180) (size 0.7 1.3) (layers F.Cu F.Paste F.Mask)
       (net 17 /SENSITIVITY_ADJ))
     (model ${KISYS3DMOD}/Resistors_SMD.3dshapes/R_0805.wrl
       (at (xyz 0 0 0))
@@ -14313,7 +14313,7 @@
   )
 
   (module Potentiometers:Potentiometer_Trimmer-EVM3S_R (layer F.Cu) (tedit 580B90C2) (tstamp 5B176509)
-    (at 191.77 31.115)
+    (at 195.54 46.56)
     (descr http://www.comkey.in/sites/default/files/attachments/EVM3ESX50B15.pdf)
     (tags "trimmer SMD")
     (path /5B156FDF)
