@@ -38,33 +38,40 @@ for mod in pcb.GetModules():
         tmp_padlist[refdes] = (clkin, din, clkout, dout)
 
 # Add traces!
-for i in range(1, 20, 2):
-    ref1 = "D{}".format(i)
-    ref2 = "D{}".format(i+1)
-    print ref1, ref2
+for i in range(2, 199, 2):
+    ref1 = "D{}".format(i-1)
+    ref2 = "D{}".format(i)
+    ref3 = "D{}".format(i+1)
+
     # Connect each one from the output of the first to the input of the second
     tmp1 = tmp_padlist[ref1]
     tmp2 = tmp_padlist[ref2]
+    tmp3 = tmp_padlist[ref3]
 
-    start1 = tmp1[2]
-    end1   = tmp2[0]
-    start2 = tmp1[3]
-    end2   = tmp2[1]
+    # connect back to the previous LED
+    bclocks = tmp1[2]
+    bdatas  = tmp1[3]
+    bclocke = tmp2[0]
+    bdatae  = tmp2[1]
 
-    print start1, end1
-    print start2, end2
+    # connect forward to the next LED
+    fclocks = tmp2[2]
+    fdatas  = tmp2[3]
+    fclocke = tmp3[0]
+    fdatae  = tmp3[1]
 
-    t1 = TRACK(pcb)
-    pcb.Add(t1)
-    t1.SetStart(pcbnew.wxPoint(*start1))
-    t1.SetEnd(pcbnew.wxPoint(*end1))
-    t1.SetNetCode(0)
-    t1.SetLayer(31)
+    conns = [(bclocks,bclocke), (bdatas, bdatae),
+             (fclocks, fclocke), (fdatas, fdatae)]
 
-    t2 = TRACK(pcb)
-    pcb.Add(t2)
-    t2.SetStart(pcbnew.wxPoint(*start2))
-    t2.SetEnd(pcbnew.wxPoint(*end2))
-    t2.SetNetCode(0)
-    t2.SetLayer(31)
+    for start, end in conns:
+        print start, end
+
+        t = TRACK(pcb)
+        pcb.Add(t)
+        t.SetStart(pcbnew.wxPoint(*start))
+        t.SetEnd(pcbnew.wxPoint(*end))
+        t.SetNetCode(0)
+        t.SetLayer(31)
+
+
 
