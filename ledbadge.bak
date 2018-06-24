@@ -4721,7 +4721,7 @@ U 1 1 5B13299C
 P 13650 8200
 F 0 "J21" H 13650 8500 50  0000 C CNN
 F 1 "Conn_01x06" H 13650 7800 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x06_Pitch1.27mm" H 13650 8200 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm_SMD_Pin1Left" H 13650 8200 50  0001 C CNN
 F 3 "" H 13650 8200 50  0001 C CNN
 	1    13650 8200
 	1    0    0    -1  
@@ -5368,7 +5368,7 @@ U 1 1 5B161E87
 P 13650 9100
 F 0 "J24" H 13650 9400 50  0000 C CNN
 F 1 "Conn_01x06" H 13650 8700 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x06_Pitch1.27mm" H 13650 9100 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm_SMD_Pin1Left" H 13650 9100 50  0001 C CNN
 F 3 "" H 13650 9100 50  0001 C CNN
 	1    13650 9100
 	1    0    0    -1  
