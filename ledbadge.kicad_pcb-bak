@@ -2,7 +2,7 @@
 
   (general
     (links 1154)
-    (no_connects 5)
+    (no_connects 1)
     (area 65.9 55.804999 233.792 132.155001)
     (thickness 1.6)
     (drawings 5)
@@ -16607,6 +16607,7 @@
   (segment (start 115.806 119.249) (end 118.499 119.249) (width 0.25) (layer F.Cu) (net 479))
   (segment (start 118.499 119.249) (end 119.25 120) (width 0.25) (layer F.Cu) (net 479))
   (segment (start 119.25 120) (end 120.25 120) (width 0.25) (layer F.Cu) (net 479))
+  (segment (start 114.126 128.474) (end 112.25 128.474) (width 0.25) (layer F.Cu) (net 480))
   (segment (start 113.8 67.9) (end 113.8 68.856194) (width 0.25) (layer F.Cu) (net 480))
   (segment (start 113.8 68.856194) (end 113.7 68.956194) (width 0.25) (layer F.Cu) (net 480))
   (segment (start 112.5 69.75) (end 112.5 69.2) (width 0.25) (layer In1.Cu) (net 480))
@@ -16620,7 +16621,6 @@
   (segment (start 114.126 128.474) (end 114.126 121.254) (width 0.25) (layer F.Cu) (net 480))
   (segment (start 114.126 121.254) (end 114.831 120.549) (width 0.25) (layer F.Cu) (net 480))
   (segment (start 114.831 120.549) (end 115.806 120.549) (width 0.25) (layer F.Cu) (net 480))
-  (segment (start 114.126 128.474) (end 113.826 128.474) (width 0.25) (layer F.Cu) (net 480))
   (segment (start 111.75 68) (end 112.43 68.68) (width 0.25) (layer F.Cu) (net 481))
   (segment (start 112.43 68.68) (end 112.43 72.131194) (width 0.25) (layer F.Cu) (net 481))
   (segment (start 117.449 121.199) (end 111.75 115.5) (width 0.25) (layer In1.Cu) (net 481))
